@@ -1,0 +1,4 @@
+﻿  LidCavity_Project.cpp
+C:\Users\pawel\source\repos\LidCavity_Project\LidCavity_Project\LidCavity_Project.cpp(213,5): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\pawel\source\repos\LidCavity_Project\LidCavity_Project\LidCavity_Project.cpp(22,21): warning C4101: 'tau': unreferenced local variable
+  LidCavity_Project.vcxproj -> C:\Users\pawel\source\repos\LidCavity_Project\Debug\LidCavity_Project.exe
